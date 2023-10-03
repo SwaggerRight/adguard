@@ -4,6 +4,8 @@
 @@||config.samsungads.com^$client='Family Room TV'
 @@||amazon.com^$important
 @@||amazonaws.com^$important
+@@||auth.split.io^$important
+@@||cws-hulu.conviva.com^$important
 @@||dropbox.com^$important
 @@||espn.com^$important
 @@||firebase-settings.crashlytics.com^$important
@@ -13,10 +15,17 @@
 @@||gvt3.com^$important
 @@||gvt2.com^$important
 @@||hulu.com^$important
+@@||hulu.hb.omtrdc.net^$important
+@@||hulustream.com^$important
 @@||life360.com^$important
 @@||microsoft.com^$important
 @@||nbcsports.com^$important
+@@||newrelic.com ^$important
 @@||office365.us^$important
+@@||paramountplus.com^$important
 @@||roku.com^$important
 @@||samsunghealthcn.com^$important
+@@||samsung.com^$important
+@@||secure-dcr.imrworldwide.com^$important
+@@||urbanairship.com^$important
 @@||v.w-x.co^$important
