@@ -1,7 +1,6 @@
-@@||device-metrics-us.amazon.com^$client='Master Bedroom FireTV'
-@@||lcprd1.samsungcloudsolution.net^$client='Family Room TV'
-@@||ichnaea.netflix.com^$client='Family Room TV'
-@@||config.samsungads.com^$client='Family Room TV'
+@@||samsungcloudsolution.net^$client='Family Room TV'
+@@||netflix.com^$client='Family Room TV'
+@@||samsungads.com^$client='Family Room TV'
 @@||adobe.com^$important
 @@||adobe.io^$important
 @@||akamaized.net^$important
@@ -9,7 +8,9 @@
 @@||amazonaws.com^$important
 @@||amplitude.com^$important
 @@||auth.split.io^$important
+@@||avast.com^$important
 @@||cws-hulu.conviva.com^$important
+@@||demdex.net^$important
 @@||dropbox.com^$important
 @@||eeroup.com^$important
 @@||espn.com^$important
@@ -22,6 +23,7 @@
 @@||hulu.com^$important
 @@||hulu.hb.omtrdc.net^$important
 @@||hulustream.com^$important
+@@||incrediblepbx^$important
 @@||life360.com^$important
 @@||linkedin.com^$important
 @@||microsoft.com^$important
@@ -30,8 +32,10 @@
 @@||office365.us^$important
 @@||paramountplus.com^$important
 @@||roku.com^$important
+@@||rubiconproject.com^$important
 @@||samsunghealthcn.com^$important
 @@||samsung.com^$important
 @@||secure-dcr.imrworldwide.com^$important
+@@||sentiance.com^$important
 @@||urbanairship.com^$important
 @@||v.w-x.co^$important
