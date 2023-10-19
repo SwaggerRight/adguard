@@ -1,3 +1,5 @@
+@@||device-metrics-us.amazon.com^$important
+@@||cloudfront.net^$important
 @@||*.mil^$important
 @@||*.gov^$important
 @@||samsungcloudsolution.net^$client='Family Room TV'
