@@ -1,8 +1,5 @@
 @@||*.mil^$important
 @@||*.gov^$important
-@@||samsungcloudsolution.net^$client='Family Room TV'
-@@||netflix.com^$client='Family Room TV'
-@@||samsungads.com^$client='Family Room TV'
 @@||adobe.com^$important
 @@||adobe.io^$important
 @@||akamaized.net^$important
@@ -30,12 +27,15 @@
 @@||linkedin.com^$important
 @@||microsoft.com^$important
 @@||nbcsports.com^$important
+@@||netflix.com^$important
 @@||newrelic.com ^$important
 @@||office.com^$important
 @@||office365.us^$important
 @@||paramountplus.com^$important
 @@||roku.com^$important
 @@||rubiconproject.com^$important
+@@||samsungads.com^$important
+@@||samsungcloudsolution.net^$important
 @@||samsunghealthcn.com^$important
 @@||samsung.com^$important
 @@||secure-dcr.imrworldwide.com^$important
