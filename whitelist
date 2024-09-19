@@ -8,6 +8,7 @@
 @@||amazonaws.com^$important
 @@||amazon-adsystem.com^$important
 @@||amplitude.com^$important
+@@||apple.com^$important
 @@||appsflyersdk.com^$important
 @@||arity.com^$important
 @@||audible.sc.omtrdc.net^$important
@@ -17,6 +18,7 @@
 @@||banyanhill.com^$important
 @@||bigtime.net^$important
 @@||bullitsoftware.com^$important
+@@||canva.com^$important
 @@||cbsinteractive.data.adobed.net^$important
 @@||cloudfront.net^$important
 @@||collect16575nmbsx.deltadna.net^$important
@@ -39,8 +41,11 @@
 @@||hulustream.com^$important
 @@||icloud.com^$important
 @@||incrediblepbx^$important
+@@||indeed.com^important
+@@||liberty.edu^$important
 @@||life360.com^$important
 @@||linkedin.com^$important
+@@||local^$important
 @@||mads.amazon-adsystem.com^$important
 @@||microsoft.com^$important
 @@||monumentalsports.com^$important
@@ -70,6 +75,7 @@
 @@||technologyadvice.com^$important
 @@||urbanairship.com^$important
 @@||v.w-x.co^$important
+@@||venmo.com^$important
 @@||waze.com^$important
 @@||whatsapp.net^$important
 @@||wtop.com^$important
